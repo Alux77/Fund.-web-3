@@ -1,0 +1,58 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+ 
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+nav {
+  float: left;
+  width: 768px;
+  border-bottom: 1px solid #666;
+}
+
+ul style
+{
+  text-align: center;
+}
+ 
+ul
+{
+  text-align: center;
+  float: right;
+  list-style-type: none;
+  padding: 1em 0;
+  margin: 0;
+  width: 110px;
+  height: 480px;
+  background-color: #B0B0B0;
+}
+
+ul li a
+{
+  color: #fff;
+  padding: .2em 1em;
+  text-decoration: none;
+}
+
+.content
+{
+  position: absolute;
+  width: 650px; 
+  float: left;
+}
+
+.footer
+{
+  clear: both;
+  left: 0;
+  /*position: absolute;*/
+  margin-top: 540px;
+}
